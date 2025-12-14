@@ -2,7 +2,7 @@
 
 - Sou estudante de Ciência de Dados e Inteligência Artificial.
 - Atualmente estou estudando as linguagens Python e C.
-- Também venho estudando o uso da plataforma Jupyter Notebook e a biblioteca Pandas.
+- Também venho estudando o uso da plataforma Jupyter Notebook.
 - Tenho um pouco de experiência com Linux pelo distro Mint.
 #
 <div>
