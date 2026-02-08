@@ -1,5 +1,5 @@
 # Olá! Eu sou Milton Bezerra do Vale Filho.
-<img src="https://github.com/MiltonBezerraFilho/MiltonBezerraFilho/blob/main/assets/ezgif-8c1d7f96197a5c10.gif" align="right" width="145"/>
+<img src="https://github.com/MiltonBezerraFilho/MiltonBezerraFilho/blob/main/assets/ezgif-8c1d7f96197a5c10.gif" align="right" width="140"/>
 
 - Sou estudante de Ciência de Dados e Inteligência Artificial.
 - Atualmente estou estudando as linguagens Python e C.
