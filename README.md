@@ -1,9 +1,11 @@
 # Olá! Eu sou Milton Bezerra do Vale Filho.
+<img src="https://github.com/MiltonBezerraFilho/MiltonBezerraFilho/blob/main/assets/ezgif-8c1d7f96197a5c10.gif" align="right" width="145"/>
 
 - Sou estudante de Ciência de Dados e Inteligência Artificial.
 - Atualmente estou estudando as linguagens Python e C.
 - Também venho estudando o uso da plataforma Jupyter Notebook.
 - Tenho um pouco de experiência com Linux pelo distro Mint.
+
 #
 <div>
   <a href="https://beacons.ai/MiltonBezerraFilho">
