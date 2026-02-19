@@ -6,14 +6,8 @@
 - Também venho estudando o uso da plataforma Jupyter Notebook.
 - Tenho um pouco de experiência com Linux pelo distro Mint.
 
-#
-<div>
-  <a href="https://beacons.ai/MiltonBezerraFilho">
-    <img height="160em" src="https://github-readme-stats-personal-gilt.vercel.app/api?username=MiltonBezerraFilho&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img height="130em" src="https://github-readme-stats-personal-gilt.vercel.app/api/top-langs/?username=MiltonBezerraFilho&layout=compact&langs_count=16&theme=gotham"/>
-</div><br> 
    
-## Minhas linguagens:
+## Linguagens:
 <div style="display: inline_block"><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
       width="100" />
